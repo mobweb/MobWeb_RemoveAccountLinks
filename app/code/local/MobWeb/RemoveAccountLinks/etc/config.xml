@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <global>
+        <blocks>
+            <customer>
+                <rewrite>
+                    <account_navigation>MobWeb_RemoveAccountLinks_Block_Account_Navigation</account_navigation>
+                </rewrite>
+            </customer>
+        </blocks>
+    </global>
+</config>

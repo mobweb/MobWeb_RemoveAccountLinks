@@ -1,0 +1,6 @@
+app/code/local/MobWeb/RemoveAccountLinks app/code/local/MobWeb/RemoveAccountLinks/
+
+app/etc/modules/MobWeb_RemoveAccountLinks.xml app/etc/modules/MobWeb_RemoveAccountLinks.xml
+
+# Clear the cache
+@shell   rm -rf $PROJECT/var/cache/* && echo "Magento Cache cleared"
